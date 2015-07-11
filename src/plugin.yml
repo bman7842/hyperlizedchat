@@ -1,0 +1,11 @@
+name: HyperlizedChat
+main: me.bman7842.hyperlizedchat.main.Main
+version: 1.0
+author: bman7842
+description: HyperlizedChat plugin
+commands:
+  cc:
+    description: Clears the chat
+    aliases: clearchat
+  lockchat:
+    description: Locks the chat
